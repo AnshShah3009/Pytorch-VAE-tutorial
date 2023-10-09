@@ -11,6 +11,7 @@ A simple tutorial of Variational AutoEncoder(VAE) models. This repository contai
 * [pytorch](https://pytorch.org/)=1.7
 * tqdm
 * numpy
+* torchviz
 
 # How-to-use
 simply run the <file_name>.ipynb files using jupyter notebook.
